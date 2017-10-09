@@ -1,9 +1,5 @@
 # theStory
-Chapter Two
-The Little Mermaid
-by
-Hans Christian Andersen
-Last Part:
+
 
 A hush came over the ship. Only the helmsman remained on deck as the little mermaid leaned her white arms on the bulwarks and looked to the east to see the first red hint of daybreak, for she knew that the first flash of the sun would strike her dead. Then she saw her sisters rise up among the waves. They were as pale as she, and there was no sign of their lovely long hair that the breezes used to blow. It had all been cut off.
 
